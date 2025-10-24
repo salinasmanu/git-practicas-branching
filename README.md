@@ -1,3 +1,3 @@
 # git-practicas-branching
 Repositorio para capacitacion de branching
-Flujo task a master
+Flujo task a masters
